@@ -1,0 +1,13 @@
+.todoContainer::-webkit-scrollbar{
+    display: none;
+}
+.todoContainer{
+    scrollbar-width: none;
+}
+
+.todoItems::-webkit-scrollbar{
+    display: none;
+}
+.todoItems{
+    scrollbar-width: none;
+}
